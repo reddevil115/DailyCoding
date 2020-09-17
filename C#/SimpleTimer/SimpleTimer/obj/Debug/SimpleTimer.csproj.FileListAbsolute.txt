@@ -1,0 +1,10 @@
+C:\Users\jump7\OneDrive\Desktop\TotalFiles\C#\SimpleTimer\SimpleTimer\bin\Debug\SimpleTimer.exe.config
+C:\Users\jump7\OneDrive\Desktop\TotalFiles\C#\SimpleTimer\SimpleTimer\bin\Debug\SimpleTimer.exe
+C:\Users\jump7\OneDrive\Desktop\TotalFiles\C#\SimpleTimer\SimpleTimer\bin\Debug\SimpleTimer.pdb
+C:\Users\jump7\OneDrive\Desktop\TotalFiles\C#\SimpleTimer\SimpleTimer\obj\Debug\SimpleTimer.csprojAssemblyReference.cache
+C:\Users\jump7\OneDrive\Desktop\TotalFiles\C#\SimpleTimer\SimpleTimer\obj\Debug\SimpleTimer.SimpleTimer.resources
+C:\Users\jump7\OneDrive\Desktop\TotalFiles\C#\SimpleTimer\SimpleTimer\obj\Debug\SimpleTimer.Properties.Resources.resources
+C:\Users\jump7\OneDrive\Desktop\TotalFiles\C#\SimpleTimer\SimpleTimer\obj\Debug\SimpleTimer.csproj.GenerateResource.cache
+C:\Users\jump7\OneDrive\Desktop\TotalFiles\C#\SimpleTimer\SimpleTimer\obj\Debug\SimpleTimer.csproj.CoreCompileInputs.cache
+C:\Users\jump7\OneDrive\Desktop\TotalFiles\C#\SimpleTimer\SimpleTimer\obj\Debug\SimpleTimer.exe
+C:\Users\jump7\OneDrive\Desktop\TotalFiles\C#\SimpleTimer\SimpleTimer\obj\Debug\SimpleTimer.pdb

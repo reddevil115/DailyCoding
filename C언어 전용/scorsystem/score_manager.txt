@@ -1,0 +1,13 @@
+Result Sheet
+
+Name: kim
+Student ID: 2015000
+
+#1 subject score: 100
+
+#2 subject score: 100
+
+#3 subject score: 80
+
+Sum: 300
+Average: 100
