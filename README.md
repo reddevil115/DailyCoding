@@ -5,3 +5,6 @@ Languages Included
 2. C++
 3. C#
 4. PYTHON
+
+## Linked In Address
+https://www.linkedin.com/in/louis-kim-gi-young-kim-47a2361b5/
