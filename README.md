@@ -8,8 +8,8 @@
 3. C#
 4. PYTHON
 
-##Project Participated
-1. BaseSticks Project (Unity 2D Game project)
+## Project Participated
+1. BaseSticks Project (Unity 2D Game project)<br>
 https://github.com/reddevil115/BaseSticksProject
 
 ## Linked In Address
