@@ -1,6 +1,8 @@
 # DailyCoding
 
-Languages Included 
+" This is my code portfolio. "
+
+## Languages Included 
 1. C Programing
 2. C++
 3. C#
