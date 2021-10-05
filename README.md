@@ -8,5 +8,9 @@
 3. C#
 4. PYTHON
 
+##Project Participated
+1. BaseSticks Project (Unity 2D Game project)
+https://github.com/reddevil115/BaseSticksProject
+
 ## Linked In Address
 https://www.linkedin.com/in/louis-kim-gi-young-kim-47a2361b5/
