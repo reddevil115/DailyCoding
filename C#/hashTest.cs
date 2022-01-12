@@ -34,6 +34,7 @@ namespace CSharp_Shell
            }
         }
         
+        // Function for hash
         private static int makeHash(string inputVal)
         {
         	int pushash = inputVal.GetHashCode();
