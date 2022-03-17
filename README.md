@@ -1,6 +1,11 @@
 # DailyCoding
+Repository for personal portfolio
 
-" This is my code portfolio. "
+## About Me
+* Name : Gi Young, Kim / Louis Kim
+* Birth Date : January 15th , 1996
+* Nationality : Republic of Korea
+* Job : Game Developer
 
 ## Languages Included 
 1. C Programing
