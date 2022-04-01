@@ -12,6 +12,17 @@ public:
         *value = input; // Set Value
     }
 
+    // Add New Start Point
+    Test(const Test &rhs)
+    {
+        std :: cout << "Test(const Test &rhs) is activate... \n" << std :: endl;
+
+        value = new int; // Create new memory
+
+        *value = *rhs.value; // Copy data
+    }
+    // End Point
+
     int GetValue()
     {
         if(value != NULL)
@@ -24,6 +35,13 @@ public:
             return 0;
         }
     }
+
+    //Add New Start Point
+    ~Test() // If destructor active object is delete then, dynamic memory will erase.
+    {
+        delete value;
+    }
+    // End Point
 };
 
 int main(void)
