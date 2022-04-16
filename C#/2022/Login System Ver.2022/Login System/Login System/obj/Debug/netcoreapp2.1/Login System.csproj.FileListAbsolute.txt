@@ -3,9 +3,11 @@ C:\Users\jump7\OneDrive\Desktop\TotalFiles\DailyCoding\C#\2022\Login System Ver.
 C:\Users\jump7\OneDrive\Desktop\TotalFiles\DailyCoding\C#\2022\Login System Ver.2022\Login System\Login System\bin\Debug\netcoreapp2.1\Login System.runtimeconfig.dev.json
 C:\Users\jump7\OneDrive\Desktop\TotalFiles\DailyCoding\C#\2022\Login System Ver.2022\Login System\Login System\bin\Debug\netcoreapp2.1\Login System.dll
 C:\Users\jump7\OneDrive\Desktop\TotalFiles\DailyCoding\C#\2022\Login System Ver.2022\Login System\Login System\bin\Debug\netcoreapp2.1\Login System.pdb
-C:\Users\jump7\OneDrive\Desktop\TotalFiles\DailyCoding\C#\2022\Login System Ver.2022\Login System\Login System\obj\Debug\netcoreapp2.1\Login System.csprojAssemblyReference.cache
 C:\Users\jump7\OneDrive\Desktop\TotalFiles\DailyCoding\C#\2022\Login System Ver.2022\Login System\Login System\obj\Debug\netcoreapp2.1\Login System.csproj.CoreCompileInputs.cache
 C:\Users\jump7\OneDrive\Desktop\TotalFiles\DailyCoding\C#\2022\Login System Ver.2022\Login System\Login System\obj\Debug\netcoreapp2.1\Login System.AssemblyInfoInputs.cache
 C:\Users\jump7\OneDrive\Desktop\TotalFiles\DailyCoding\C#\2022\Login System Ver.2022\Login System\Login System\obj\Debug\netcoreapp2.1\Login System.AssemblyInfo.cs
 C:\Users\jump7\OneDrive\Desktop\TotalFiles\DailyCoding\C#\2022\Login System Ver.2022\Login System\Login System\obj\Debug\netcoreapp2.1\Login System.dll
 C:\Users\jump7\OneDrive\Desktop\TotalFiles\DailyCoding\C#\2022\Login System Ver.2022\Login System\Login System\obj\Debug\netcoreapp2.1\Login System.pdb
+C:\Users\jump7\OneDrive\Desktop\TotalFiles\DailyCoding\C#\2022\Login System Ver.2022\Login System\Login System\obj\Debug\netcoreapp2.1\Login System.csproj.AssemblyReference.cache
+C:\Users\jump7\OneDrive\Desktop\TotalFiles\DailyCoding\C#\2022\Login System Ver.2022\Login System\Login System\obj\Debug\netcoreapp2.1\Login System.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jump7\OneDrive\Desktop\TotalFiles\DailyCoding\C#\2022\Login System Ver.2022\Login System\Login System\obj\Debug\netcoreapp2.1\Login System.genruntimeconfig.cache

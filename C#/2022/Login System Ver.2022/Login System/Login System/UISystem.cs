@@ -13,6 +13,7 @@ namespace Login_System
             Console.WriteLine("************************************* MENU *****************************************");
             Console.WriteLine("1. Login");
             Console.WriteLine("2. Join");
+            Console.WriteLine("3. Exit");
             Console.WriteLine("************************************************************************************\n");
         }
 

@@ -10,11 +10,36 @@ namespace Login_System
         {
             UISystem ui = new UISystem();
             ui.Header();
+
             ui.Menu_infor();
 
-            menuVal = ui.Get_Menu_Val();
+            while (true)
+            {
+                menuVal = ui.Get_Menu_Val();
+                Console.WriteLine("* Your Selection : " + menuVal + "\n");
 
-            Console.WriteLine("* Your Selection : " + menuVal);
+                if (menuVal == 1)
+                {
+                    Console.WriteLine("[Log In]\n");
+                }
+
+                else if(menuVal == 2)
+                {
+                    Console.WriteLine("[Join]\n");
+                }
+
+                else if(menuVal == 3)
+                {
+                    ui.Footer();
+                    break;
+                }
+
+                else
+                {
+                    Console.WriteLine("ERROR : You type out of range.");
+                    Console.WriteLine("Please Type Again.");
+                }
+            }
         }
     }
 }
