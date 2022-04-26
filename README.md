@@ -12,6 +12,7 @@ Repository for personal portfolio
 2. C++
 3. C#
 4. PYTHON
+5. JAVA
 
 ## Project Participated
 1. BaseSticks Project (Unity 2D Game project)<br>
