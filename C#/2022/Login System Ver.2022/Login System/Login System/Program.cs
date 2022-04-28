@@ -9,8 +9,9 @@ namespace Login_System
         static void Main(string[] args)
         {
             UISystem ui = new UISystem();
-            ui.Header();
+            JoinManager join = new JoinManager();
 
+            ui.Header();
             ui.Menu_infor();
 
             while (true)
@@ -26,6 +27,8 @@ namespace Login_System
                 else if(menuVal == 2)
                 {
                     Console.WriteLine("[Join]\n");
+
+                    join.JoinSystem();
                 }
 
                 else if(menuVal == 3)
