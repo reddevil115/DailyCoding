@@ -1,7 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Text;
-using System;
 using System.IO;
 
 namespace Login_System
@@ -11,7 +10,7 @@ namespace Login_System
         Stat stat = new Stat();
 
         private string path = null;
-        private int id;
+        private string id;
         private int pw;
 
         private string buffer;
@@ -29,9 +28,9 @@ namespace Login_System
         private void SetID(string input)
         {
             buffer = null;
-            id = input.GetHashCode();
+            id = input;
 
-            path = stat.GetPath(id);
+            path = stat.GetIdPath(id) + ".txt";
 
             if(!File.Exists(path))
             {
@@ -44,9 +43,9 @@ namespace Login_System
 
             else
             {
-                id = 0;
+                id = null;
 
-                Console.WriteLine("ERRROR : ID is already Taken. \n");
+                Console.WriteLine("ERRROR: ID is already Taken. \n");
                 JoinSystem();
             }
         }
@@ -65,6 +64,39 @@ namespace Login_System
                 Console.WriteLine("PW is matched.");
                 Console.Write("Do you want to join with this information? [Y/n]: ");
                 buffer = Console.ReadLine();
+                Console.WriteLine();
+
+                if(buffer.Equals("Y"))
+                {
+                    buffer = null;
+                    buffer = stat.GetTimeStamp();
+
+                    Directory.CreateDirectory(Path.GetDirectoryName(path));
+
+                    File.AppendAllText(path, pw.ToString() + Environment.NewLine);
+                    File.AppendAllText(path, buffer + Environment.NewLine);
+
+                    Console.WriteLine("Congratuations!");
+                    Console.WriteLine("You just Complete To Join Our System.");
+                    Console.WriteLine("Your Joined Time: " + buffer);
+                    Console.WriteLine();
+                }
+
+                else if(buffer.Equals("n"))
+                {
+                    Console.WriteLine("ERROR: You Selected 'n'.");
+                    Console.WriteLine("Type Information Again. \n");
+
+                    JoinSystem();
+                }
+
+                else
+                {
+                    Console.WriteLine("ERROR: You Type Wrong Value.");
+                    Console.WriteLine("Type Information Again. \n");
+
+                    JoinSystem();
+                }
 
             }
 
