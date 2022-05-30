@@ -7,7 +7,7 @@ Repository for personal portfolio
 * Nationality : Republic of Korea
 * Job : Game Developer
 
-## Languages Included 
+## Languages Included (Skills)
 1. C Programing
 2. C++
 3. C#
