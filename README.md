@@ -1,5 +1,5 @@
 # DailyCoding
-Repository for personal portfolio
+This Repository is for personal portfolio
 
 ## I. About Me
 * Name : Gi Young, Kim / Louis Kim
