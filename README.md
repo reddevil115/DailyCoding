@@ -1,4 +1,7 @@
 # DailyCoding
+
+Hello, Welcome.
+
 This Repository is for personal portfolio
 
 ## I. About Me
