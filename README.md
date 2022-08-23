@@ -7,7 +7,7 @@ This Repository is for personal portfolio.
 * Birth Date : January 15th , 1996
 * Nationality : Republic of Korea
 * Job : Game Developer (Unity / Unreal)
-* Office : Jeonju, Republic of Korea
+* Office : Jeonju City, Republic of Korea
 
 ## II. Languages Included (Skills)
 1. C Programing
