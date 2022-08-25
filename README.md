@@ -9,12 +9,13 @@ This Repository is for personal portfolio
 * Job : Game Developer (Unity / Unreal)
 * Office : Jeonju City, Republic of Korea
 
-## II. Languages Included (Skills)
+## II. Languages Included In This Repository(Skills)
 1. C Programing
 2. C++
 3. C#
 4. PYTHON
 5. JAVA
+
 
 ## III. Project Participated
 1. BaseSticks Project (Unity 2D Game project)<br>
