@@ -9,7 +9,7 @@ This Repository is for personal portfolio
 * Job : Game Developer (Unity / Unreal)
 * Office : Jeonju City, Republic of Korea
 
-## II. Languages Included In This Repository(Skills)
+## II. Languages Included
 1. C Programing
 2. C++
 3. C#
