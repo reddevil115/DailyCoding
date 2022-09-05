@@ -12,12 +12,13 @@ This Repository is for personal portfolio
 ~~~
 
 ## II. Languages Included
+~~
 1. C Programing
 2. C++
 3. C#
 4. PYTHON
 5. JAVA
-
+~~
 
 ## III. Project Participated
 1. BaseSticks Project (Unity 2D Game project)<br>
