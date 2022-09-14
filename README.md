@@ -14,7 +14,7 @@ This Repository is for personal portfolio
 ## II. Languages Included
 ~~~
 1. C Programing
-2. C++
+2. C++ (CPP)
 3. C#
 4. PYTHON
 5. JAVA
