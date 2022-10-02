@@ -1,6 +1,6 @@
 # Daily Coding
 
-This Repository is for personal portfolio.
+This Repository is for personal portfolio..
 
 ## I. About Me
 ~~~
