@@ -18,6 +18,7 @@ This Repository is for personal portfolio
 3. C#
 4. PYTHON
 5. JAVA
+6. HTML
 ~~~
 
 ## III. Project Participated
