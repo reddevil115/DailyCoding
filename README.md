@@ -15,7 +15,7 @@ This Repository is for personal portfolio
 ~~~
 1. C Programing
 2. C++ (CPP)
-3. C#
+3. C# (Csharp)
 4. PYTHON
 5. JAVA
 6. HTML
