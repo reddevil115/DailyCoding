@@ -179,5 +179,63 @@
             </fieldset>
         </form>
     </div>
+    <hr>
+    <div class="Select, Option, optgroup Test">
+        <h1>Select, Option,optgroup Test</h1>
+        <fieldset>
+            <legend>Personal Information</legend>
+
+            <p>Way 1 : No division</p>
+            <select name = "city_1" id = "city_1">
+                <option value="Seoul">Seoul</option>
+                <option value="Busan">Bussan</option>
+                <option value="Daegu">Daegu</option>
+                <option value="Ulsan">Ulsan</option>
+            </select>
+
+            <p>Way 2 : Have division</p>
+            <select name = "city_2" id = "city_2">
+                <optgroup label="Capital">
+                    <option value="Seoul">Seoul</option>
+                </optgroup>
+                <optgroup label="City">
+                    <option value="Busan">Bussan</option>
+                    <option value="Daegu">Daegu</option>
+                    <option value="Ulsan">Ulsan</option>
+                </optgroup>
+            </select>
+
+            <p>Way 3 : Set Max Count to show at web</p>
+            <select name="city_3" id = "city_3" size="3">
+                <option value="Seoul">Seoul</option>
+                <option value="Daegu">Daegu</option>
+                <option value="Busan">Busan</option>
+                <option value="Ulsan">Ulsan</option>
+            </select>
+
+            <p>Way 4 : Set Multiple Choice</p>
+            <select name="city_4" id = "city_4" size="3" multiple>
+                <option value="Seoul">Seoul</option>
+                <option value="Daegu">Daegu</option>
+                <option value="Busan">Busan</option>
+                <option value="Ulsan">Ulsan</option>
+            </select>
+
+            <p>Way 5 : Set Bagic Choice</p>
+            <select name="city_5" id = "city_5" size="3">
+                <option value="Seoul">Seoul</option>
+                <option value="Daegu">Daegu</option>
+                <option value="Busan" selected>Busan</option>
+                <option value="Ulsan">Ulsan</option>
+            </select>
+
+            <select name = "city_6" id = "city_6">
+                <option value="Seoul">Seoul</option>
+                <option value="Busan" selected>Bussan</option>
+                <option value="Daegu">Daegu</option>
+                <option value="Ulsan">Ulsan</option>
+            </select>
+        </fieldset>
+    </div>
 </body>
 </html>
