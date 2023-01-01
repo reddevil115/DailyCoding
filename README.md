@@ -1,4 +1,4 @@
-# About "Daily Coding"
+# About, "Daily Coding"
 
 This Repository is for personal portfolio.
 
