@@ -1,0 +1,248 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>Test, Day 01</title>
+</head>
+<body>
+    <!--
+        "<div> </div>" is divide code block in editor
+    -->
+    <div class = "h_Test">
+        <h1>h1 looks like this</h1>
+        <h2>h2 looks like this</h2>
+        <h3>h3 looks like this</h3>
+        <h4>h4 looks like this</h4>
+        <h5>h5 looks like this</h5>
+        <h6>h6 looks like this</h6>
+    </div>
+    <hr>
+    <div class="p_Test">
+        <p>p looks like this</p>
+    </div>
+    <hr>
+    <div class= "blockquote_Test">
+        <blockquote cite="https://www.naver.com">
+            <p>Blockquote Test. This is for long reference from naver.</p>
+        </blockquote>
+    </div>
+    <div class="q_Test">
+        <p>
+            q test <q cite = "https://www.naver.com"> Short reference from naver.</q>
+        </p>
+    </div>
+    <hr>
+    <div class="del_and_ins_Test">
+        <p>In sentence you can insert number like this : <del>200</del>(del) <ins>500</ins>(ins)</p>
+    </div>  
+    <hr>
+    <div class="sub_and_sup_Test">
+        <p> Oxygen is H<sub>2</sub>O | Sub Test</p>
+        <p> 4<sup>2</sup> is 16 | Sup Test</p>
+    </div>
+    <hr>
+    <div class="span_Test">
+        <P>Information</P>
+        <P>This is a Test for <span>"Span"</span> code</P>
+    </div>
+    <hr>
+    <div class =  "ul_Test">
+        <h1>ul List Test</h1>
+        <ul>
+            <li>List Contents 1</li>
+            <li>List Contents 2</li>
+            <li>List Contents 3</li>
+        </ul>
+        
+    </div>
+    <hr>
+    <div class = "ol_Test">
+        <h1>ol list Test</h1>
+        <ol>
+            <li>Contents 1</li>
+            <li>Contents 2</li>
+            <li>Contents 3</li>
+        </ol>
+    </div>
+    <hr>
+    <div class = "dl_Test">
+        <dl>
+            <dt>HTML</dt>
+            <dd>HTML : Hyper Text Markup Language</dd>
+            <dt>CSS</dt>
+            <dd>CSS : Cascading Style Sheets</dd>
+        </dl>
+    </div>
+    <div class="a_Test">
+        <h1>Link Test</h1>
+        <a href="#">Temporary Link</a>
+        <br>
+        <a href="https://www.naver.com" target="_blank" title="Naver"> Move to Naver(New Tab)</a>
+        <br>
+        <a href="https://www.google.com" target="_self" title="Google">Move to Google(This Tab)</a>
+    </div> 
+    <hr>
+    <div class = "Image Test">
+        <!-- 
+            "../" is upper folder
+            "./" is this folder
+         -->
+         <h1>Image Test</h1>
+        <img src = "../../../Image/The Official Seal of KIM.png" alt="The Offical Seal of KIM">
+
+        <h2>Image Link</h2>
+        <a href="https://www.giants.jp/top.html" target="_blank">
+            <img src ="../../../Image/Giants.jpg" alt="Giants">
+        </a>
+    </div>
+    <hr>
+    <div class = "Strong and em Test">
+        <h1>strong Test</h1>
+        <p>Do <strong>NOT </strong>cross the road when <strong>RED LIGHT </strong>is turn on.</p>
+
+        <h2>em Test</h2>
+        <p>Do <em>NOT </em>cross the road when <em>RED LIGHT </em>is turn on.</p>
+        <p>em <em>can use <em>DUPLICATE</em></em>.</p>
+    </div>
+
+    <!--
+        form tag
+        format : <form action = "Server Url" method = "get or post"></form>
+    -->
+
+    <div class ="input Test">
+        <input type="text">
+        <input type="password">
+        <input type="tel">
+        <input type="number">
+        <input type="url">
+        <input type="search">
+        <input type="email">
+        <input type = "checkbox">
+        <input type = "radio">
+        <input type="file">
+        <input type="image" src = "../../../Image/SignatureLOUIS_Star.gif">
+        <input type="hidden">
+        <input type="date">
+        <input type="datetime-local">
+        <input type="month">
+        <input type="week">
+        <input type="time">
+        <input type="range">
+        <input type="color">
+        <input type="submit">
+        <input type="reset">
+    </div>
+    <hr>
+    <div class="label Test">
+        <h1>Label Test</h1>
+        <!--Way 1-->
+        <label>
+            ID
+            <input type="text">
+        </label>
+        <br>
+
+        <!--Way 2-->
+        <label for = "UserPW">PassWord</label>
+        <input type = "password" id = "UserPW">
+        <br>
+
+        <!--Way 3-->
+        <label for = "UserName">
+            <input type="text" id = "UserName"> Name
+        </label>
+    </div>
+    <hr>
+    <div class="filedset and legend Test">
+        <form action ="#"> <!-- "#" is temporary way. It will work normally when it change with other later. -->
+            <fieldset>
+                <legend>Bagic Information</legend>
+                <p>
+                    <label for = "userID">ID</label>
+                    <input type="text" id = "userID">
+                </p>
+                <p>
+                    <label for = "passwd">PW</label>
+                    <input type = "password" id = "PW"> 
+                </p>
+            </fieldset>
+            <fieldset>
+                <legend>Optional Information</legend>
+                <p>
+                    <label for = "age">ages</label>
+                    <input type="number" id ="age">
+                </p>
+                <p>
+                    <label for = "recommender">rocommender</label>
+                    <input type="text" id="recommender">
+                </p>
+            </fieldset>
+        </form>
+    </div>
+    <hr>
+    <div class="Select, Option, optgroup Test">
+        <h1>Select, Option,optgroup Test</h1>
+        <fieldset>
+            <legend>Personal Information</legend>
+
+            <p>Way 1 : No division</p>
+            <select name = "city_1" id = "city_1">
+                <option value="Seoul">Seoul</option>
+                <option value="Busan">Bussan</option>
+                <option value="Daegu">Daegu</option>
+                <option value="Ulsan">Ulsan</option>
+            </select>
+
+            <p>Way 2 : Have division</p>
+            <select name = "city_2" id = "city_2">
+                <optgroup label="Capital">
+                    <option value="Seoul">Seoul</option>
+                </optgroup>
+                <optgroup label="City">
+                    <option value="Busan">Bussan</option>
+                    <option value="Daegu">Daegu</option>
+                    <option value="Ulsan">Ulsan</option>
+                </optgroup>
+            </select>
+
+            <p>Way 3 : Set Max Count to show at web</p>
+            <select name="city_3" id = "city_3" size="3">
+                <option value="Seoul">Seoul</option>
+                <option value="Daegu">Daegu</option>
+                <option value="Busan">Busan</option>
+                <option value="Ulsan">Ulsan</option>
+            </select>
+
+            <p>Way 4 : Set Multiple Choice</p>
+            <select name="city_4" id = "city_4" size="3" multiple>
+                <option value="Seoul">Seoul</option>
+                <option value="Daegu">Daegu</option>
+                <option value="Busan">Busan</option>
+                <option value="Ulsan">Ulsan</option>
+            </select>
+
+            <p>Way 5 : Set Bagic Choice</p>
+            <select name="city_5" id = "city_5" size="3">
+                <option value="Seoul">Seoul</option>
+                <option value="Daegu">Daegu</option>
+                <option value="Busan" selected>Busan</option>
+                <option value="Ulsan">Ulsan</option>
+            </select>
+
+            <select name = "city_6" id = "city_6">
+                <option value="Seoul">Seoul</option>
+                <option value="Busan" selected>Bussan</option>
+                <option value="Daegu">Daegu</option>
+                <option value="Ulsan">Ulsan</option>
+            </select>
+        </fieldset>
+    </div>
+    <hr>
+    <div class="button Test">
+        <button type="submit">
+            <img src = "../../../Image/Superior 2021.jpg" alt = "Logo of Superiror">
+            Set Superior
+        </button>
+    </div>
+</body>
+</html>
