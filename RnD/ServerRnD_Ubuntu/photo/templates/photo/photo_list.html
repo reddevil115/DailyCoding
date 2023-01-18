@@ -1,32 +1,21 @@
+<!-- src = "https://wallpapercave.com/wp/wp2754864.jpg" -->
+
 <html>
     <head>
         <title>Photo App</title>
     </head>
     <body>
-        <h1><a href="">Photo List Page</a></h1>
+        <h1><a href= "">Photo List Page</a></h1>
         <section>
+            {% for photo in photos %}
             <div>
                 <h2>
-                    <a href="">Blue Hill</a>
+                    <a href="">{{photo.title}}</a>
                 </h2>
-                <img
-                  src = "https://wallpapercave.com/wp/wp2754864.jpg"
-                  alt="Blue Hill"
-                  width="300"
-                  />
-                  <p>Microsoft. 1000won</p>
+                <img src="{{photo.image}}" alt="{{photo.title}}" width="300"/>
+                <p>{{photo.author}}, {{photo.price}} won</p>
             </div>
-            <div>
-                <h2>
-                    <a href="">Blue Hill</a>
-                </h2>
-                <img
-                  src = "https://wallpapercave.com/wp/wp2754864.jpg"
-                  alt="Blue Hill"
-                  width="300"
-                  />
-                  <p>Microsoft, 1000won</p>
-            </div>
+            {% endfor %}
         </section>
     </body>
 </html>
