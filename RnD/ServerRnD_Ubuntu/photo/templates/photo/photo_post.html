@@ -1,0 +1,17 @@
+<html>
+    <head>
+        <title>Photo App</title>
+    </head>
+    <body>
+        <n1><a href="/">Return to the home</a></n1>
+        <div>
+            <section>
+                <h2>New Photo</h2>
+                <form method="POST">
+                    {% csrf_token %}{{ form.as_p }}
+                    <button type="submit">Confirm</button>
+                </form>
+            </section>
+        </div>
+    </body>
+</html>
