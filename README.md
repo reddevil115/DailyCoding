@@ -11,6 +11,7 @@ This Repository is for personal portfolio.
 * Nationality : Republic of Korea
 * Job : Game Developer (Unity / Unreal)
 * Office : Seongnam City, Republic of Korea
+* Career : 
 ~~~
 
 ## II. Languages Included
