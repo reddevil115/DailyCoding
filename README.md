@@ -13,6 +13,7 @@ This Repository is for personal portfolio.
 * Office : Seongnam City, Republic of Korea
 * Career : 
   1) Seongnam (2023.02~Present) : WPF(C#) Project
+  2) Jeonju (2022.08 ~ 2023.02) :Unity(C#) Project
 ~~~
 
 ## II. Languages Included
