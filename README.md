@@ -1,4 +1,4 @@
-# < Daily Coding >
+# Daily Coding 
 ***
 # About, "Daily Coding" Repository
 
