@@ -6,8 +6,9 @@
         <h1>List of Contents</h1>
         <section>
             <div>
+                {% for content in Contents %}
                 <h2>
-                    <a href="">Title</a>
+                    <a href="">{{ content.title }}</a>
                 </h2>
                 <p>Author</p>
                 <p>Description</p>
