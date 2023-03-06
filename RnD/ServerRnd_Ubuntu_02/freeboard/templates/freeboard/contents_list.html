@@ -6,12 +6,11 @@
         <h1>List of Contents</h1>
         <section>
             <div>
-                {% for content in Content %}
-                <h2>
-                    <a href="">{{ content.title }}</a>
-                </h2>
-                <p>{{ content.author}}</p>
-                <p>{{ content.description }}</p>
+                {% for Content in Contents %}
+                <p>
+                    <a href="">{{ Content.title }}</a>
+                     by. {{ Content.author}}
+                </p>
             </div>
             {% endfor %}
         </section>
