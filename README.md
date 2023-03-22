@@ -13,7 +13,7 @@ This Repository is for personal portfolio.
   1) Game Developer (Unity / Unreal) 
   2) Software Developer(C#)
 * Office : Seongnam City, Republic of Korea(South Korea)
-* Career : 
+* Career by Cities : 
   1) Seongnam (2023.02~Present) : WPF(C#) Project
   2) Jeonju (2022.08 ~ 2023.02) :Unity(C#) Project
 ~~~
