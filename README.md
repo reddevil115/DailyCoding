@@ -9,7 +9,7 @@ This Repository is for personal portfolio.
 * Name : Gi Young, Kim (Louis Kim)
 * Birth Date : January 15th , 1996
 * Nationality : Republic of Korea
-* Job : 
+* Jobs : 
   1) Game Developer (Unity / Unreal) 
   2) Software Developer(C#)
 * Office : Seongnam City, Republic of Korea(South Korea)
