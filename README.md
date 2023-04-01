@@ -1,6 +1,6 @@
 # Daily Coding 
 ***
-# About, The "Daily Coding" Repository
+# About, "The Daily Coding" Repository
 
 This Repository is for personal portfolio.
 
